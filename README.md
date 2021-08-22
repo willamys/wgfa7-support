@@ -9,7 +9,7 @@ The support component result can be access in that [link](https://wgfa7--hiringc
  ### Support Component
  
  In this component, the user will see bar fixed in the bottom the page.
- ![Main Page](https://github.com/willamys/saudavel_e_commerce/blob/master/telas/clientes.png)
+ ![Main Page](https://github.com/willamys/wgfa7-support/blob/master/support.PNG)
  
  ### Landing Page
  
