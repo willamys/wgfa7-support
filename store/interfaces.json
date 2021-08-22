@@ -1,0 +1,8 @@
+{
+  "support": {
+    "component": "Support"
+  },
+  "landing": {
+    "component": "Landing"
+  }
+}

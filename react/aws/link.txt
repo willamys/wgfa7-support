@@ -1,0 +1,7 @@
+https://aws.amazon.com/console/
+Api HTTP
+lambda_function_name: funcLambdaDdbApi
+api_name: api_for_lambdaDdbAPi
+
+
+https://docs.aws.amazon.com/pt_br/apigateway/latest/developerguide/http-api-dynamo-db.html
