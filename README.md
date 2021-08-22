@@ -14,7 +14,7 @@ The support component result can be access in that [link](https://wgfa7--hiringc
  ### Landing Page
  
   In this page, the user will can sign up to receive promotions. The data is stored in the dynamodb at Amazon Aws.
- ![Main Page](https://github.com/willamys/saudavel_e_commerce/blob/master/telas/produtos.png)
+ ![Main Page](https://github.com/willamys/wgfa7-support/blob/master/landing.PNG)
 
 
 ### Resources
