@@ -4,7 +4,7 @@
 
 The project was created in the Hiring Coders Program. The aim was develop a whatsapp support component and landing page.
 
-The support component result can be access in that [link](https://wgfa7--hiringcoders2021.myvtex.com/) and the landing page in [link] (https://wgfa7--hiringcoders2021.myvtex.com/landing)
+The support component result can be access in that [link](https://wgfa7--hiringcoders2021.myvtex.com/) and the landing page in [link](https://wgfa7--hiringcoders2021.myvtex.com/landing)
  
  ### Support Component
  
